@@ -1,7 +1,10 @@
-// Main class에 문제 풀이 > 답안 제출 > 해당 문제 클래스 생성 복사해서 저장
+// 두 정수 A와 B가 주어졌을 때, A와 B를 비교하는 프로그램을 작성하시오.
 
-import java.util.*;
-public class Main {
+package Step_02;
+
+import java.util.Scanner;
+
+public class Step_02_1330 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
