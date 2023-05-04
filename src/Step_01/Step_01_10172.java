@@ -1,7 +1,8 @@
-// Main class에 문제 풀이 > 답안 제출 > 해당 문제 클래스 생성 복사해서 저장
+// 아래 예제와 같이 개를 출력하시오.
 
-import java.util.*;
-public class Main {
+package Step_01;
+
+public class Step_01_10172 {
     public static void main(String[] args) {
         System.out.println("|\\_/|");
         System.out.println("|q p|   /}");

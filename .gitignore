@@ -1,4 +1,6 @@
 ### IntelliJ IDEA ###
+BAEKJOON_step by step.iml
+.idea/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
